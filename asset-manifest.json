@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taksu-test-project/static/css/main.e5569b9d.css",
+    "main.js": "/taksu-test-project/static/js/main.6d08b9d3.js",
+    "index.html": "/taksu-test-project/index.html",
+    "main.e5569b9d.css.map": "/taksu-test-project/static/css/main.e5569b9d.css.map",
+    "main.6d08b9d3.js.map": "/taksu-test-project/static/js/main.6d08b9d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5569b9d.css",
+    "static/js/main.6d08b9d3.js"
+  ]
+}
